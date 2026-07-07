@@ -1,4 +1,5 @@
-## Hey everyone, welcome to Git tutorial
+## Welcome to Git!
 
-- Yo, Shemuz here!
+- Yo, Johnny here!
+- This is coming from dev Shem
 - I am adding this from 'feature-branch'
